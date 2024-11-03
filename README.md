@@ -8,4 +8,4 @@ GitHub Username: adityasinnarkar
 Repo: https://github.com/adityasinnarkar/adityasinnarkar.github.io
 Pages: adityasinnarkar.github.io
 
-# For Our VSCode Commits
+# For Our Bash Commits
